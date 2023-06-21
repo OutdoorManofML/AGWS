@@ -3,7 +3,9 @@ This repository contains the code of the paper: Adaptive Gradient-based Word Sai
 
 ## Usage  
 unzip AGWS_code.zip
+
 cd AGWS_code
+
 pip install -e.
 _____________________________________________________________________________________________________________________
 
